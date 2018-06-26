@@ -1,2 +1,2 @@
 # github-codedeploy
-A sample repository for codedeploy practices lab
+A sample repository for codedeploy practice lab
