@@ -1,1 +1,1 @@
-This is sample fake file for git push
+This is sample fake file for git push to master branch.
